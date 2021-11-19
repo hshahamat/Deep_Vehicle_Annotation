@@ -7,6 +7,6 @@ are jointly optimized so that abundant latent knowledge learned from the deep em
 
 
 <div align="center">
-    <img src="main/Illustration.PNG">
+    <img src="/Illustration.PNG">
 </div>
 
