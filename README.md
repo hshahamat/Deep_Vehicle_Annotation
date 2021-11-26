@@ -1,5 +1,5 @@
 # Deep Learning
-#Fast Automatic Vehicle Annotation for Urban Trafﬁc Surveillance
+# Fast Automatic Vehicle Annotation for Urban Trafﬁc Surveillance
 A keras implementation (non official) of the paper "Fast Automatic Vehicle Annotation for Urban Trafﬁc Surveillance".
 https://ieeexplore.ieee.org/document/8082130
 
